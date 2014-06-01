@@ -3,9 +3,6 @@ In default:
 ================================
 Note: append 'default_' to the front of all of these names except those marked with an *
 
-*bubble
-*crack_anylength
-*heart
 apple
 book
 bookshelf
@@ -24,7 +21,6 @@ clay_lump
 cloud
 coal_block
 coal_lump
-cobble
 copper_block
 copper_ingot
 copper_lump
@@ -59,12 +55,9 @@ ladder
 lava
 lava_flowing_animated
 lava_source_animated
-leaves
 mese_block
 mese_crystal
 mese_crystal_fragment
-mineral_coal/copper/diamond/iron/gold/mese
-mossy_cobble
 nc_back
 nc_front
 nc_rb
@@ -90,17 +83,8 @@ snow_side
 steel_block
 steel_ingot
 stick
-stone
 stone_brick
 tool_bronzeaxe/bronzepick/bronzeshovel/bronzesword/diamondaxe/diamondpick/diamondshovel/diamondsword/meseaxe/mesepick/meseshovel/mesesword/steelaxe/steelpick/steelshovel/steelsword/stoneaxe/stonepick/stoneshovel/stonesword/woodaxe/woodpick/woodshovel/woodsword
-torch
-torch_animated
-torch_on_ceiling
-torch_on_ceiling_animated
-torch_on_floor
-torch_on_floor_animated
-tree
-tree_top
 water
 water_source_animated
 water_flowing_animated
