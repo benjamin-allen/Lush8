@@ -3,7 +3,6 @@ In default:
 ================================
 Note: append 'default_' to the front of all of these names except those marked with an *
 
-apple
 book
 bookshelf
 brick
@@ -20,14 +19,11 @@ clay_brick
 clay_lump
 cloud
 coal_block
-coal_lump
 copper_block
 copper_ingot
-copper_lump
 desert_sand
 desert_stone
 desert_stone_brick
-diamond
 dry_shrub
 fence
 furnace_bottom
@@ -37,14 +33,10 @@ furnace_front
 furnace_front_active
 furnace_side
 furnace_top
-glass
 gold_block
 gold_ingot
-gold_lump
 gravel
-grass_1/2/3/4/5
 ice
-iron_lump
 junglegrass
 junglesapling
 jungletree
@@ -55,9 +47,6 @@ ladder
 lava
 lava_flowing_animated
 lava_source_animated
-mese_block
-mese_crystal
-mese_crystal_fragment
 nc_back
 nc_front
 nc_rb
@@ -71,18 +60,11 @@ rail
 rail_crossing
 rail_curved
 rail_tjunction
-sand
-sandstone
-sandstone_brick
-sapling
 scorched_stuff
 sign_wall
-snow
 snowball
-snow_side
 steel_block
 steel_ingot
-stick
 stone_brick
 tool_bronzeaxe/bronzepick/bronzeshovel/bronzesword/diamondaxe/diamondpick/diamondshovel/diamondsword/meseaxe/mesepick/meseshovel/mesesword/steelaxe/steelpick/steelshovel/steelsword/stoneaxe/stonepick/stoneshovel/stonesword/woodaxe/woodpick/woodshovel/woodsword
 water
