@@ -3,14 +3,6 @@ In default:
 ================================
 Note: append 'default_' to the front of all of these names except those marked with an *
 
-clay
-clay_brick
-clay_lump
-cloud
-coal_block
-copper_block
-copper_ingot
-desert_sand
 desert_stone
 desert_stone_brick
 dry_shrub
