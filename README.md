@@ -1,7 +1,7 @@
 Lush8
 =====
 
-Lush8 is an 8x8 texture pack for Minetest, liscensed under the GPLv3.
+Lush8 is an 8x8 texture pack for Minetest, licensed under the GPLv3.
 
 
 Goals
