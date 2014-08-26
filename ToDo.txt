@@ -1,24 +1,7 @@
 ================================
 In default:
 ================================
-Note: append 'default_' to the front of all of these names except those marked with an *
-
-paper
-papyrus
-rail
-rail_crossing
-rail_curved
-rail_tjunction
-scorched_stuff
-sign_wall
-snowball
-steel_block
-steel_ingot
-stone_brick
-tool_bronzeaxe/bronzepick/bronzeshovel/bronzesword/diamondaxe/diamondpick/diamondshovel/diamondsword/meseaxe/mesepick/meseshovel/mesesword/steelaxe/steelpick/steelshovel/steelsword/stoneaxe/stonepick/stoneshovel/stonesword/woodaxe/woodpick/woodshovel/woodsword
-water
-water_source_animated
-water_flowing_animated
+Is done?
 
 ================================
 In bones:
