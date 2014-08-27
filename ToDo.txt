@@ -6,18 +6,12 @@ Is done?
 ================================
 In bones:
 ================================
-bones_bottom
-bones_top
-bones_side
-bones_front
-bones_rear
+done
 
 ================================
 In bucket:
 ================================
-bucket
-bucket_water
-bucket_lava
+done
 
 ================================
 In doors:
@@ -80,14 +74,7 @@ fire_basic_flame_animated
 ================================
 In flowers:
 ================================
-Note: append 'flowers_' to the front of all of these names except those marked with an *
-
-dandelion_white
-dandelion_yellow
-geranium
-rose
-tulip
-viola
+done
 
 ================================
 In legacy:
